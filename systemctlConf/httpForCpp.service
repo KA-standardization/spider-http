@@ -1,0 +1,12 @@
+[Unit]
+Description=Http For Cpp
+After=network.target
+
+[Service]
+Type=forking
+EnvironmentFile=/etc/conf/httpForCpp.conf
+WorkingDirectory=/spider-http
+ExecStart=/bin/sh -c "${PATH} ${PORT}"
+Restart=always
+[Install]
+WantedBy=multi-user.target

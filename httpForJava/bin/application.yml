@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: WebTest
+
+server:
+  port: 8080
+
+apk:
+  url: L:\Developer\spider-man\Applications\android\checkMe\D_Unicorn_Unidbg\MymeJavaWebUnidbg\algorithmbase_60.apk

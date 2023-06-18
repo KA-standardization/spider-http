@@ -1,0 +1,63 @@
+# dir
+node_modules/
+.idea/
+cmake-build-debug/
+__pycache__/
+.pytest_cache/
+.mvn/
+
+
+# Apk
+*apk.dis
+
+
+# Go
+go.mod
+go.sum
+
+
+# file
+.DS_Store
+*.log
+myme__*
+
+# IDA
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+
+# IDE
+.idea/
+
+
+# Jadx
+*.cache/
+
+
+# Unidbg
+target/
+obj/
+unidbg-ios/src/test/resources/native/swift/swift_library.o
+unidbg-ios/src/test/resources/native/swift/swift_library-Swift.h
+*.iml
+*.i64
+*.idb
+.gradle
+/local.properties
+
+
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# vs
+*.vcxproj*
+Release/
+*.vcpkgmaster*
+.vs/
+Debug/
+x64/
