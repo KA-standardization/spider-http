@@ -6,9 +6,9 @@ Todo
 
 Java: 结合unidbg起接口 
 
-JavaScript: 结合网页爬下来的JS起接口 
+[完成] ~~JavaScript: 结合网页爬下来的JS起接口~~
 
-[完成] ~~:Cpp: 结合魔改算法起接口~~
+[完成] ~~Cpp: 结合魔改算法起接口~~
 
 Python: 结合unicorn起接口
 
