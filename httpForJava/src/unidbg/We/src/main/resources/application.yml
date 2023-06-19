@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: WebTest
-
-server:
-  port: 8080
-
-apk:
-  url: C:\Users\root\Desktop\algorithmbase_60.apk
