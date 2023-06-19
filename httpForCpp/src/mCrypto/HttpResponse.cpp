@@ -41,7 +41,7 @@ bool HttpResponse::setRequest(std::string request)
 		filename = "/index.html";
 	}
 
-	string filepath = "www";
+	string filepath = "../src/www";
 	filepath += filename;
 	// php-cgi www/index.php crypto=abcd >  www/index.php.html
 	// http://192.168.1.118:8888/index.php?crypto=Wangshdsdjdjask
