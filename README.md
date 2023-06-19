@@ -1,5 +1,7 @@
 # spider-http
 
+测试机是CentOS-Stream，内核是4.18.0-489.el8.x86_64
+
 爬虫相关起接口
 
 Todo
