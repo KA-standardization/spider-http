@@ -1,4 +1,4 @@
-# spider-http
+# spider-httpForJavaScript
 
 > 解决一些JS加密代码运行起接口的问题
 
