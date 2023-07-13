@@ -1,0 +1,8 @@
+1.
+    java -jar webTest2.0.jar &
+    http://127.0.0.1:8080/web/getTest?input=abcdef0123456789
+
+2.maven:
+    modify:
+        unidbg->install
+        We->clean->package

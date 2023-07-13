@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: myme
+
+server:
+  port: 8080
+
+apk:
+  url: C:\Users\root\Desktop\test\algorithmbase_60.apk
